@@ -1,0 +1,4 @@
+D:\WORK\Main#4\Main#4\bin\Debug\Main#4.exe
+D:\WORK\Main#4\Main#4\bin\Debug\Main#4.pdb
+D:\WORK\Main#4\Main#4\obj\x86\Debug\Main#4.exe
+D:\WORK\Main#4\Main#4\obj\x86\Debug\Main#4.pdb
